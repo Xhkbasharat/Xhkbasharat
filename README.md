@@ -15,7 +15,7 @@ MCA Student | AI & ML Enthusiast | Generative AI Explorer
 
 I'm Basharat, an MCA student passionate about Artificial Intelligence, Machine Learning, Generative AI, and building meaningful technology.
 
-- 🎓 Pursuing MCA at Islamic University of Science & Technology.
+- 🎓 MCA at Islamic University of Science & Technology.
 - 🤖 Exploring LLMs, RAG, Fine-Tuning and MLOps.
 - ☁️ Learning cloud technologies and Microsoft Azure.
 - 📸 Photographer, videographer and content creator.
@@ -99,18 +99,3 @@ I love capturing travel experiences, exploring beautiful places, and creating te
 <p align="center">
 <i>Building. Learning. Exploring. Creating. 🚀</i>
 </p>
-
-<!--
-**Xhkbasharat/Xhkbasharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
