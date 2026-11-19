@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="github-banner.png" width="100%" alt="Sheikh Basharat - AI and Generative AI Enthusiast"/>
+<img src="Neon Mountain Photographer GitHub Banner.png" width="100%" alt="Sheikh Basharat - AI and Generative AI Enthusiast"/>
 
 <br/>
 
