@@ -1,133 +1,276 @@
-<p align="center">
-  <img src="Neon Mountain Photographer GitHub Banner.png" width="100%" />
-</p>
-<h1 align="center">Hey there! 👋 I'm Sheikh Basharat</h1>
 
-<h3 align="center">
-MCA Student | AI & Generative AI Enthusiast | Tech Explorer
-</h3>
+<!-- ===================================================== -->
+<!--                 SHEIKH BASHARAT                       -->
+<!--               GITHUB PROFILE README                   -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+with+LLMs+%26+RAG;Learning+%7C+Building+%7C+Innovating;Code+%2B+Creativity+%2B+Technology" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xhkbasharat&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+<img src="github-banner.png" width="100%" alt="Sheikh Basharat - AI and Generative AI Enthusiast"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sheikh+Basharat+%F0%9F%91%8B;AI+%26+Generative+AI+Enthusiast;Exploring+LLMs%2C+RAG+%26+MLOps;Building+Ideas+Into+Technology;Photography+%7C+Videography+%7C+Travel" alt="Typing introduction"/>
+
+<br/>
+
+<a href="https://github.com/Xhkbasharat">
+<img src="https://komarev.com/ghpvc/?username=Xhkbasharat&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/Xhkbasharat?tab=followers">
+<img src="https://img.shields.io/github/followers/Xhkbasharat?style=for-the-badge&color=8A2BE2&label=FOLLOWERS"/>
+</a>
+
+<a href="https://github.com/Xhkbasharat?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sheikh Basharat**, an MCA student passionate about technology, Artificial Intelligence, Machine Learning, and Generative AI.
+Hello! I'm **Sheikh Basharat**, an MCA student, technology enthusiast, and creative storyteller with a strong interest in Artificial Intelligence, Machine Learning, and Generative AI.
 
-I enjoy exploring emerging technologies, building practical solutions, and continuously improving my technical skills.
+I enjoy exploring emerging technologies, experimenting with intelligent systems, and turning ideas into practical projects.
 
-- 🎓 Master of Computer Applications (MCA).
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🧠 Exploring Large Language Models (LLMs), RAG and Fine-Tuning.
-- ☁️ Learning MLOps, Generative AI and Cloud Technologies.
-- 📸 Photographer, videographer and travel content creator.
-- 🚀 Always curious about building something meaningful.
+My interests span across the intersection of technology and creativity — from Large Language Models and Retrieval-Augmented Generation to photography, videography, and travel storytelling.
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)**.
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**.
+- 🧠 Interested in **LLMs, RAG, Fine-Tuning & Generative AI**.
+- ☁️ Learning **MLOps, Google Cloud & Microsoft Azure**.
+- 🔍 Interested in **Responsible AI and intelligent applications**.
+- 📸 Passionate about photography, videography and travel.
+- 🚀 Always learning, experimenting and building.
+
+> "Technology gives us the tools. Creativity gives us the vision."
+
+---
+
+## 🎯 What I'm Currently Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- LLM Fine-Tuning
+- Responsible AI
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud & Engineering
+- MLOps for Generative AI
+- Google Cloud
+- Microsoft Azure
+- AI Application Development
+- Automation & Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack & Tools
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
+</p>
+
+### 🧠 AI, Machine Learning & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsible_AI-2E8B57?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,gcp"/>
+</p>
+
+*My technology stack reflects areas of learning and exploration, not necessarily production-level proficiency in every tool.*
 
 ---
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA)**  
-Islamic University of Science & Technology  
-📅 August 2024 – August 2026
+<table>
+<tr>
+<td>🎓</td>
+<td>
 
-**Bachelor of Computer Applications (BCA Hons.)**  
-University of Kashmir  
-Govt. Degree College, Kupwara  
-📅 January 2020 – August 2024
+**Master of Computer Applications (MCA)**
 
----
+Islamic University of Science & Technology
 
-## 🛠️ Technologies & Interests
+August 2024 – August 2026
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
-</p>
+</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsible_AI-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+**Bachelor of Computer Applications (BCA Hons.)**
 
----
+University of Kashmir
 
-## 📜 Certifications
+Government Degree College, Kupwara
 
-- 🏅 Claude 101 — Anthropic
-- ☁️ MLOps for Generative AI — Google Cloud
-- 🏅 Microsoft Azure Essentials Professional Certificate
-- 🧠 Advanced LLMs with RAG — LinkedIn Learning
-- 🤖 Fine-Tuning for LLMs — LinkedIn Learning
-- 🛡️ Foundations of Responsible AI — LinkedIn Learning
+January 2020 – August 2024
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 📜 Certifications & Professional Learning
 
-🥉 **3rd Place — State Level Yuva Utsav Photography Contest (2023)**
+| Certification | Organization |
+|---|---|
+| Claude 101 | Anthropic |
+| MLOps for Generative AI | Google Cloud |
+| Microsoft Azure Essentials Professional Certificate | Microsoft |
+| Advanced LLMs with RAG | LinkedIn Learning |
+| Fine-Tuning for LLMs | LinkedIn Learning |
+| Foundations of Responsible AI | LinkedIn Learning |
 
-Organized by NYKS J&K-Ladakh.
-
-Recognized for photography at the state-level competition.
-
----
-
-## 📸 Beyond Code
-
-Photography and videography are my second language.
-
-I love capturing moments, exploring beautiful destinations, and creating travel and technology content.
-
-For me, creativity goes beyond programming — it's about seeing the world differently and telling stories through visuals.
+Continuous learning is a core part of my journey. I'm particularly interested in the evolving ecosystem of Generative AI and intelligent applications.
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Achievements & Recognition
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xhkbasharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xhkbasharat&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xhkbasharat&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/🥉_3rd_Place-State_Level_Yuva_Utsav-FFD700?style=for-the-badge"/>
+
+### State Level Yuva Utsav Photography Contest — 2023
+
+**NYKS J&K-Ladakh**
+
+</div>
+
+Recognized with **3rd place** in the State Level Yuva Utsav Photography Contest in 2023.
+
+This achievement reflects my passion for visual storytelling, creativity, and capturing meaningful moments.
+
+---
+
+## 💻 Featured Projects
+
+I use GitHub to document my learning journey, share experiments, and build practical technology solutions.
+
+<!-- Replace these examples with your actual project repositories -->
+
+| Project | Description |
+|---|---|
+| 🤖 AI & Generative AI | Experiments and projects in intelligent applications |
+| 🧠 LLM & RAG | Exploring document-based question answering and retrieval |
+| 🐍 Python Development | Programming experiments and useful scripts |
+| 🌐 Web Development | Web-based projects and development experiments |
+
+<div align="center">
+
+<a href="https://github.com/Xhkbasharat?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_My_Projects-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xhkbasharat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xhkbasharat&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Xhkbasharat&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 📸 Beyond Code — Photography & Videography
+
+Technology is one side of my personality. Creativity is another.
+
+Photography and videography are my second language. I love capturing landscapes, exploring beautiful destinations, documenting journeys, and creating travel and technology content.
+
+My creative interests include:
+
+- 📷 Photography and visual storytelling
+- 🎬 Videography and video editing
+- 🏔️ Travel and landscape exploration
+- 🌍 Discovering new places and cultures
+- 💡 Creating technology and travel content
+
+I believe that the best ideas often come from observing the world from a different perspective.
 
 ---
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/Xhkbasharat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sheikh-basharat">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I'm always interested in connecting with developers, AI enthusiasts, technology professionals, photographers, and creative minds.
+
+<div align="center">
+
+<a href="https://github.com/Xhkbasharat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sheikh-basharat">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ If you like any of my projects, a star on the repo means a lot!
-</p>
+<div align="center">
 
-<h3 align="center">
-  Building • Learning • Exploring • Creating 🚀
-</h3>
+### 💙 Thanks for visiting my profile!
 
-<p align="center">
-  <i>Turning curiosity into creativity and ideas into innovation.</i>
-</p>
+**If you find my work interesting, consider giving my repositories a ⭐**
+
+<img src="https://img.shields.io/badge/Keep_Learning-Keep_Building-Keep_Exploring-00C9FF?style=for-the-badge"/>
+
+<br/><br/>
+
+*"Turning curiosity into creativity and ideas into innovation."*
+
+### 🚀 Building • Learning • Exploring • Creating
+
+</div>
