@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" />
+  <img src="Neon Mountain Photographer GitHub Banner.png" width="100%" />
 </p>
 <h1 align="center">Hey there! 👋 I'm Sheikh Basharat</h1>
 
