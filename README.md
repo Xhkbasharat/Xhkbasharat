@@ -38,7 +38,7 @@ I enjoy exploring emerging technologies, experimenting with intelligent systems,
 
 My interests span across the intersection of technology and creativity — from Large Language Models and Retrieval-Augmented Generation to photography, videography, and travel storytelling.
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**.
+- 🎓 **Master of Computer Applications (MCA)**.
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**.
 - 🧠 Interested in **LLMs, RAG, Fine-Tuning & Generative AI**.
 - ☁️ Learning **MLOps, Google Cloud & Microsoft Azure**.
